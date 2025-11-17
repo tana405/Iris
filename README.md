@@ -1,2 +1,11 @@
-terminal: jupyter notebook
-главный файл: main.ipynb.
+## Чтобы установить проект, необходимо выполнить следующие команды:
+
+```
+pip install jupyter
+```
+
+## Запуск проекта в консоли:
+
+```
+ jupyter notebook
+```
